@@ -1,2 +1,0 @@
-(this["webpackJsonpcrwn-clothing"]=this["webpackJsonpcrwn-clothing"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n(3),r=n.n(i),s=(n(8),n(0));function o(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Hello CodeSandbox"}),Object(s.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var d=document.getElementById("root");r.a.render(Object(s.jsx)(c.StrictMode,{children:Object(s.jsx)(o,{})}),d)},8:function(e,t,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.5a8a8a9b.chunk.js.map
